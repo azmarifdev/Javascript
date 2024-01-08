@@ -9,4 +9,4 @@ details[0] = 'name';
 details[1] = 'username';
 console.log(details);
 
-console.log(typeof carsk);
+console.log(typeof cars);
