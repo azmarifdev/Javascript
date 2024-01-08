@@ -1,6 +1,19 @@
 let text = 'HELLO WORLD';
-console.log((char = text.at(0)));
-console.log((char = text.charAt(0)));
-console.log((char = text.charCodeAt(0)));
+// Extracting String Characters
+console.log(text.at(0));
+console.log(text.charAt(0));
+console.log(text.charCodeAt(0));
+
+console.log(text.at(89));
+console.log(text.charAt(88));
+console.log(text.charCodeAt(65));
+// Property Access [ ]
+
+console.log(text[ 0 ]);
+console.log(text[ 65 ]);
+console.log(text[ 0 ] = "A");
+console.log(text); // 13 number line is not working
+
+// Extracting String Parts
 
 
