@@ -14,3 +14,10 @@ Object type
 function
 */
 
+// Primitive type example
+
+let name = 'azm';
+let name2 = name;
+name2 = 'arif';
+console.log(name);
+console.log(name2);
