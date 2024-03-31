@@ -37,3 +37,4 @@ console.log(54);
 
 person = { name: 'azm', age: 21 };
 console.table(person);
+
