@@ -16,11 +16,11 @@ function
 
 // Primitive type example
 
-let name = 'azm'; // 0001
+/* let name = 'azm'; // 0001
 let name2 = name;
 name2 = 'arif'; // 0002
 console.log(name);
-console.log(name2);
+console.log(name2); */
 
 // Reference type example
 
